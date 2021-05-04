@@ -17,12 +17,12 @@ The development of the prototype was done as part of the McGill University Mecha
 <img src="image2.jpeg" alt="drawing" width="200"/> -->
 Side View     |  Top View    |  Top View with cloth      |
 :---------------------:|:---------------------:|:---------------------:
-<img src="images/image1.jpg" alt="drawing" width="230"/>  |  <img src="images/image2.jpeg" alt="drawing" width="190"/>  |  <img src="images/image3.png" alt="drawing" width="172"/>
+<img src="images/image1.jpeg" alt="drawing" width="230"/>  |  <img src="images/image2.jpeg" alt="drawing" width="190"/>  |  <img src="images/image3.png" alt="drawing" width="172"/>
 
 ### Prototype Testing
 Synchronization test     | Forearm sensation test    |  Final picture      |
 :---------------------:|:---------------------:|:---------------------:
-<img src="images/image8.jpeg" alt="drawing" width="200"/>  |  <img src="images/image4.jpeg" alt="drawing" width="210"/>  |  <img src="images/image7.jpg" alt="drawing" width="172"/>
+<img src="images/image8.jpeg" alt="drawing" width="200"/>  |  <img src="images/image4.jpeg" alt="drawing" width="210"/>  |  <img src="images/image7.jpeg" alt="drawing" width="172"/>
 
 ### Prototype Assembly
 Actuator tests     | Assembly phase 1    

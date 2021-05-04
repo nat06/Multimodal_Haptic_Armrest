@@ -4,7 +4,7 @@
 
 ## Project Description 📺
 The 4D cinema experience has been growing steadily for the past decade.
-However, especially during the Covid-19 pandemic, content viewing is shifting increasingly towards at-home consumption, propelled by streaming services such as Netflix, Amazon Prime Video and Disney+.
+However, especially during the Covid-19 pandemic, content viewing is shifting increasingly towards at-home consumption, propelled by streaming services such as Netflix, Amazon Prime Video and Disney+. 
 While a massive amount of content is already available on these platforms, and the 4D experience in movie theatres is well established, the home theatre equivalent has yet to gain significant popularity, in part due to the high cost of the associated systems.
 To address this barrier to adoption, we investigate the feasibility of augmenting the armrests of regular chairs with haptic effects that can offer some portion of the experience available to cinema-goers.
 As a starting point, our aim was to develop a reasonably small, robust, and low-cost armrest device capable of providing a diverse range of haptic feedback effects.

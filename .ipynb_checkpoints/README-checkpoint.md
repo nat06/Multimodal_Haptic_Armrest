@@ -17,17 +17,17 @@ The development of the prototype was done as part of the McGill University Mecha
 <img src="image2.jpeg" alt="drawing" width="200"/> -->
 Side View     |  Top View    |  Top View with cloth      |
 :---------------------:|:---------------------:|:---------------------:
-<img src="image1.jpg" alt="drawing" width="230"/>  |  <img src="image2.jpeg" alt="drawing" width="190"/>  |  <img src="image3.png" alt="drawing" width="172"/>
+<img src="images/image1.jpg" alt="drawing" width="230"/>  |  <img src="images/image2.jpeg" alt="drawing" width="190"/>  |  <img src="images/image3.png" alt="drawing" width="172"/>
 
 ### Prototype Testing
 Synchronization test     | Forearm sensation test    |  Final picture      |
 :---------------------:|:---------------------:|:---------------------:
-<img src="image8.jpeg" alt="drawing" width="200"/>  |  <img src="image4.jpeg" alt="drawing" width="210"/>  |  <img src="image7.jpg" alt="drawing" width="172"/>
+<img src="images/image8.jpeg" alt="drawing" width="200"/>  |  <img src="images/image4.jpeg" alt="drawing" width="210"/>  |  <img src="images/image7.jpg" alt="drawing" width="172"/>
 
 ### Prototype Assembly
 Actuator tests     | Assembly phase 1    
 :---------------------:|:---------------------:|
-<img src="image5.jpeg" alt="drawing" width="200"/>  |  <img src="image6.jpeg" alt="drawing" width="190"/>  
+<img src="images/image5.jpeg" alt="drawing" width="200"/>  |  <img src="images/image6.jpeg" alt="drawing" width="190"/>  
 
 ## Links
 [Prototype Development video](https://youtu.be/AspdwDC-C9g)  

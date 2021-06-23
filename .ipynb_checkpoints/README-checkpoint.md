@@ -1,6 +1,7 @@
 # Multimodal Haptic Armrest for Immersive 4D Experiences
 
-**UPDATE (June 18th, 2021):** this project and prototype will be virtually presented at the [IEEE **World Haptics** Conference 2021](https://2021.worldhaptics.org) on (July 6-9, 2021).  
+**UPDATE (June 18th, 2021):** this project and prototype will be virtually presented at the [IEEE **World Haptics** Conference 2021](https://2021.worldhaptics.org) on (July 6-9, 2021).      
+
   **UPDATE (May 10th, 2021):** the submitted *Work-in-Progress Paper* apropos of this project **has been accepted for presentation** at the [IEEE **World Haptics** Conference 2021](https://2021.worldhaptics.org). Link to the final paper [here](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:3ce078ac-f1d8-45d8-a8a3-f05573ea982f).
   
 **NOTE:** a *Work-in-Progress Paper* concerning this project has been submitted to the [IEEE **World Haptics** Conference 2021](https://2021.worldhaptics.org) (July 6-9, 2021, virtual, previously in Montreal, Canada). Link to the paper [here](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:3ce078ac-f1d8-45d8-a8a3-f05573ea982f).

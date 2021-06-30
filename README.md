@@ -34,7 +34,7 @@ Actuator tests     | Assembly phase 1
 <img src="images/image5.jpeg" alt="drawing" width="200"/>  |  <img src="images/image6.jpeg" alt="drawing" width="190"/>  
 
 ## Links
-[Prototype Development video](https://youtu.be/AspdwDC-C9g)  
-[Prototype Demonstration video](https://youtu.be/Ie1n5zDHzoA)
-[IEEE World Haptics Conference 2021 Presentation Video](https://www.youtube.com/watch?v=1nf8dzCueBY)
+[Prototype Development video](https://youtu.be/AspdwDC-C9g)     
+[Prototype Demonstration video](https://youtu.be/Ie1n5zDHzoA)   
+[IEEE World Haptics Conference 2021 Presentation Video](https://www.youtube.com/watch?v=1nf8dzCueBY)    
 [Work-in-Progress Paper](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:3ce078ac-f1d8-45d8-a8a3-f05573ea982f)

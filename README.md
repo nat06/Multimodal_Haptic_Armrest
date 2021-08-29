@@ -1,12 +1,12 @@
 # Multimodal Haptic Armrest for Immersive 4D Experiences
 
-**UPDATE (July 10th, 2021):** project was successfully presented at the IEEE World Haptics Conference 2021.
+**UPDATE (July 10th, 2021):** project was successfully presented at the [IEEE **World Haptics** Conference 2021](https://2021.worldhaptics.org). Link to the published paper [here](https://ieeexplore.ieee.org/document/9517151) or [here](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:ced4a24b-7a1a-4192-a6cc-4e618fc9b671).
 
-**UPDATE (June 18th, 2021):** this project and prototype will be virtually presented at the [IEEE **World Haptics** Conference 2021](https://2021.worldhaptics.org) on (July 6-9, 2021). The IEEE World Haptics Conference (WHC) is the premier international conference covering various aspects of haptics, including the scientific findings, technological developments, and applications. Link to the Presentation Video [here](https://www.youtube.com/watch?v=1nf8dzCueBY). Link to the final paper [here](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:ced4a24b-7a1a-4192-a6cc-4e618fc9b671).
+**UPDATE (June 18th, 2021):** this project and prototype will be virtually presented at the [IEEE **World Haptics** Conference 2021](https://2021.worldhaptics.org) on (July 6-9, 2021). The IEEE World Haptics Conference (WHC) is the premier international conference covering various aspects of haptics, including the scientific findings, technological developments, and applications. Link to the Presentation Video [here](https://www.youtube.com/watch?v=1nf8dzCueBY). 
 
-  **UPDATE (May 10th, 2021):** the submitted *Work-in-Progress Paper* apropos of this project **has been accepted for presentation** at the [IEEE **World Haptics** Conference 2021](https://2021.worldhaptics.org). Link to the final paper [here](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:ced4a24b-7a1a-4192-a6cc-4e618fc9b671).
+  **UPDATE (May 10th, 2021):** the submitted *Work-in-Progress Paper* apropos of this project **has been accepted for presentation** at the [IEEE **World Haptics** Conference 2021](https://2021.worldhaptics.org).
   
-**NOTE:** a *Work-in-Progress Paper* concerning this project has been submitted to the [IEEE **World Haptics** Conference 2021](https://2021.worldhaptics.org) (July 6-9, 2021, virtual, previously in Montreal, Canada). Link to the paper [here](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:3ce078ac-f1d8-45d8-a8a3-f05573ea982f).
+**NOTE:** a *Work-in-Progress Paper* concerning this project has been submitted to the [IEEE **World Haptics** Conference 2021](https://2021.worldhaptics.org) (July 6-9, 2021, virtual, previously in Montreal, Canada). 
 
 ## Project Description 📺
 The 4D cinema experience has been growing steadily for the past decade.
